@@ -18,18 +18,12 @@ Feel free to connect and collaborate!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- 
-
-  
-  <!-- TensorFlow Badge -->
+ <!-- TensorFlow Badge -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   <!-- Tableau Badge -->
   <!-- Tableau Badge -->
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" alt="Tableau" />
-
-  
 </div>
 
 <!--
