@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
-I'm Ram Nayak, a Pre-Final Year Computer Science and Engineering student with a passion for AI & ML and Data Science.
-Explore my projects to see my work in Machine Learning, Computer Vision, NLP, and more.
+I'm Ram Nayak, a Final Year Computer Science and Engineering student with a passion for AI & ML and Data Science.
+Explore my projects to see my work in Machine Learning, Computer Vision, Business Analysis, and more.
 I'm dedicated to creating innovative solutions that make a positive impact.
 
 Feel free to connect and collaborate!
